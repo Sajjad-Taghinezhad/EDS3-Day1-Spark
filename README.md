@@ -1,2 +1,2 @@
-# EDS3-Day2-Spark
+# EDS3-Day1-Spark
 Working with Spark 
